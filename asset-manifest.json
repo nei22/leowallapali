@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/leowallapali/static/css/main.073c9b0a.css",
-    "main.js": "/leowallapali/static/js/main.6162b5e5.js",
+    "main.css": "/leowallapali/static/css/main.65a943ce.css",
+    "main.js": "/leowallapali/static/js/main.01072477.js",
     "index.html": "/leowallapali/index.html",
-    "main.073c9b0a.css.map": "/leowallapali/static/css/main.073c9b0a.css.map",
-    "main.6162b5e5.js.map": "/leowallapali/static/js/main.6162b5e5.js.map"
+    "main.65a943ce.css.map": "/leowallapali/static/css/main.65a943ce.css.map",
+    "main.01072477.js.map": "/leowallapali/static/js/main.01072477.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6162b5e5.js"
+    "static/css/main.65a943ce.css",
+    "static/js/main.01072477.js"
   ]
 }
